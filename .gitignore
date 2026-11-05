@@ -1,0 +1,8 @@
+build/
+target/
+project/target/
+project/project/
+__pycache__/
+.bsp/
+.metals/
+.bloop/
