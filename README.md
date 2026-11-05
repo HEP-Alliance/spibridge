@@ -52,3 +52,8 @@ clk/4. The FT232H makes 60 MHz / 2n: 15 MHz works and 30 MHz does not.
 was changed to return the AXI resp code in the response frame.
 `Axi4SharedToApb3BridgeFixed.scala` is SpinalHDL's `Axi4SharedToApb3Bridge`
 (MIT) with `PSLVERROR` latched; upstream reports every slave error as OKAY.
+
+## License
+
+MIT, see `LICENSE`. `Axi4SharedToApb3BridgeFixed.scala` keeps SpinalHDL's
+own MIT notice.
